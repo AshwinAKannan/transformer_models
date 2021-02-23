@@ -16,7 +16,9 @@ https://www.youtube.com/playlist?list=PLam9sigHPGwOBuH4_4fr-XvDbe5uneaf6
 Blogs
 
 http://jalammar.github.io/illustrated-transformer/
+
 https://medium.com/@hirotoschwert/an-unofficial-colab-walkthrough-of-vision-transformer-8bcd592ba26a
+
 https://towardsdatascience.com/transformers-141e32e69591
 
 Question in mind: how does the decoder get trained?
