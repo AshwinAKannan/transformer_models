@@ -7,7 +7,7 @@ Videos
 
 Transformers:
 
-https://www.youtube.com/watch?v=S27pHKBEp30&ab_channel=SeattleAppliedDeepLearning \n
+https://www.youtube.com/watch?v=S27pHKBEp30&ab_channel=SeattleAppliedDeepLearning
 https://www.youtube.com/watch?v=4Bdc55j80l8&ab_channel=TheA.I.Hacker-MichaelPhi
 
 BERT:
